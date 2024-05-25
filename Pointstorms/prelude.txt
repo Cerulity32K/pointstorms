@@ -1,0 +1,46 @@
+# The Project
+This project uses OpenGL, GLFW, and ImGui to display an editable, point-based, attribute-less vertex shader, as well as configurable uniforms.
+
+# Anemoia
+I have a sort of anemoia for the rise of the Internet.
+I don't know if this is all survivorship bias, but back then, everything just seemed fun.
+
+People created tons of personal websites.
+Cracked software had really cool intros and songs.
+Even malware was really cool.
+Not to mention skeuomorphism, bevelling, and a bunch of other tiny details that just existed everywhere.
+
+Now, it feels like we've lost that aesthetic.
+
+The Internet has become mostly a subset of a few dozen websites. YouTube, TikTok, Instagram, Snapchat are some examples (and don't forget Stack Overflow).
+All of them have minimal or similar designs and have little personality (becuase they aren't personal at all; they're made by corporations).
+And while there are incredibly cool projects (Furnace Tracker, Godot, and Cargo all come to mind), it feels like the Internet as a whole has dropped that general playfulness.
+
+We have so much more technology available to us, but it feels like in total, we are less creative.
+
+So have fun. Make stuff. Small or large, bad or good, tech or art, just make something.
+
+In fact, here's a list of creative FOSS projects I use.
+Use whatever you want to make anything you want, these are just the ones I use (in order from easy to use -> harder to use):
+## Art/Media
+- VLC Media Player - A robust media player that supports many formats and can interpret files that other programs may not be able to (due to corruption).
+- Audacity - An incredibly featureful audio editor with editing capabilities ranging from individual samples to entire hours.
+- Inkscape - A vector-based art program that integrates with SVG.
+- Krita - A raster-based art program that supports animations.
+- Kdenlive - A standard and batteries-included video editor capable of many effects.
+- Shotcut - An alternative to Kdenlive. Slightly more featureful at the cost of performance.
+- Blender - An incredibly powerful 3D modeller, animator, rigger, and so much more.
+- Furnace - A massive chiptune tracker that supports chips ranging from the NES and Atari eras all the way to the Amiga.
+- OpenMPT - A module tracker that supports Amiga modules all the way to Impulse Tracker modules. Furnace passes the torch to OpenMPT for computer tracker modules.
+- FFmpeg - A multimedia encoder that supports tons of formats and has lots of filters and options. Fun fact: This is the backend for many video editors, audio editors, converters, etc.
+
+## Programming
+- JetBrains Mono - A font that focuses on developer ergonomics. It supports many readable ligatures, is easy to read, is very unambiguous, and honestly just looks cool.
+- VS Code - An extremely extendable code editor that can be configured to become a full IDE for many languages. (Personally, I use a modification of the 1984 theme).
+- Godot - A high-level game engine where games can be written in its own scripting language, C# or any language that compiles to a DLL.
+- Dear ImGui - A batteries-included GUI library that is incredibly easy to use compared to other forms of UI. Used in this project!
+- Raylib - A lower-level, but intuitive graphics library that allows you to create 2D or 3D games without any extra setup.
+- Rust - A memory-safe, system-level, yet abstract language that is designed to compile and run forever.
+- GLFW - A low-level window manager built to interact with low level graphics libraries. Used in this project!
+- OpenGL - An extremely low-level graphics library. Used in this project!
+- Vulkan - An immensely verbose and customizable graphics library that runs even closer to bare-metal than OpenGL.
